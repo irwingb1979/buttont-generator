@@ -6,6 +6,8 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 ## Demo
 [Demo](https://todovue-4eam.onrender.com/)
 
+![A screenshot of the project](https://irwinborjas.com/wp-content/uploads/2025/08/buttonbuilder1.png)
+
 ## Getting Started
 
 First, run the development server:
