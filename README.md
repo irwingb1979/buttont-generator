@@ -1,4 +1,10 @@
+# My Button Generator
+
+A simple and intuitive button generator developed in Next.js, TypeScript, and Tailwind. It allows you to create a button and get the CSS code.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
+## Demo
+[Demo](https://todovue-4eam.onrender.com/)
 
 ## Getting Started
 
